@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS 3043 - Meet The Robinsons
 
 You can use the [editor on GitHub](https://github.com/quyendinhthuchoang/CS3043_MeetTheRobinsons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
