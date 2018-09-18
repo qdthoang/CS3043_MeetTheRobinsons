@@ -1,5 +1,3 @@
-# CS 3043 - Meet The Robinsons
-
 ## Presentation
 - [Team's Final Idea](https://docs.google.com/document/d/1LoHO1yPDVlnS7D5pAGOPKfi1T0iTiLTNUCzjoM4XST4/edit?usp=sharing)
 
