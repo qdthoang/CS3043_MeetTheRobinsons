@@ -1,37 +1,10 @@
-## CS 3043 - Meet The Robinsons
+# CS 3043 - Meet The Robinsons
 
-You can use the [editor on GitHub](https://github.com/quyendinhthuchoang/CS3043_MeetTheRobinsons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Minutes
+[Minute 9/14](https://docs.google.com/document/d/1iVv8NpP6QZHKvJDKGTH5_QHl6AB5IpJflTh44VqYpNU/edit?usp=sharing)
+[Minute 9/18](https://docs.google.com/document/d/12-F3GGhkNdUwhObVDNTbm7JjTWvqxRPEBcJyQ3TuISc/edit?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quyendinhthuchoang/CS3043_MeetTheRobinsons/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Misc
+[List of Technologies](https://docs.google.com/document/d/1R05VCoc7Fi-njOms7pjPs3VKttFhIDvQLMTO1Q8hVUw/edit?usp=sharing)
+[List of Project Ideas](https://docs.google.com/document/d/10LapQpFbU00MRdLz-suqGpoC13ef4cQsxbjfKvvZvJw/edit?usp=sharing)
+[Team's Final Idea](https://docs.google.com/document/d/1LoHO1yPDVlnS7D5pAGOPKfi1T0iTiLTNUCzjoM4XST4/edit?usp=sharing)
