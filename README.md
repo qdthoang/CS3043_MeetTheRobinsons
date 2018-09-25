@@ -8,6 +8,7 @@
 ## Minutes
 - [Minute 9/14](https://docs.google.com/document/d/1iVv8NpP6QZHKvJDKGTH5_QHl6AB5IpJflTh44VqYpNU/edit?usp=sharing)
 - [Minute 9/18](https://docs.google.com/document/d/12-F3GGhkNdUwhObVDNTbm7JjTWvqxRPEBcJyQ3TuISc/edit?usp=sharing)
+- [Minute 9/25](https://docs.google.com/document/d/1IjmTO_gt7uUPfnXwXPeTG2XNgtDxC2QSYupowwg6cEM/edit?usp=sharing)
 
 ## Misc
 - [List of Project Ideas](https://docs.google.com/document/d/10LapQpFbU00MRdLz-suqGpoC13ef4cQsxbjfKvvZvJw/edit?usp=sharing)
