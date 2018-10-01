@@ -1,5 +1,6 @@
 ## Presentation
 - [Team's Final Idea](https://docs.google.com/document/d/1LoHO1yPDVlnS7D5pAGOPKfi1T0iTiLTNUCzjoM4XST4/edit?usp=sharing)
+- [Team's Final presentation](https://docs.google.com/presentation/d/1aTTiavM4PPCvvYFYtTr3CMvwH54stu024LGKCdFK1oI/edit?usp=sharing)
 
 ## Movie Analyzation
 - [Movie Timeline](https://docs.google.com/document/d/1Ri1rN9Y7qp7L99oVy59iAa0EpRTXeu1v1d9ERlakvfM/edit?usp=sharing)
@@ -11,6 +12,7 @@
 - [Minute 9/18](https://docs.google.com/document/d/12-F3GGhkNdUwhObVDNTbm7JjTWvqxRPEBcJyQ3TuISc/edit?usp=sharing)
 - [Minute 9/25](https://docs.google.com/document/d/1IjmTO_gt7uUPfnXwXPeTG2XNgtDxC2QSYupowwg6cEM/edit?usp=sharing)
 - [Minute 9/27](https://docs.google.com/document/d/1IfDWpPLqodrFvTgSLjlHEY1CWtGVSKHVAKj6OrKtaAI/edit?usp=sharing)
+- [Minute 10/1](https://docs.google.com/document/d/1bkL0zdxJQqu4iHUQ5Y-0fK5azVbbYBfaBsc1Fuo2dp0/edit?usp=sharing)
 
 ## Misc
 - [List of Project Ideas](https://docs.google.com/document/d/10LapQpFbU00MRdLz-suqGpoC13ef4cQsxbjfKvvZvJw/edit?usp=sharing)
