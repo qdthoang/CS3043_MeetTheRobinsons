@@ -1,6 +1,6 @@
 ## Presentation
 - [Team's Final Idea](https://docs.google.com/document/d/1LoHO1yPDVlnS7D5pAGOPKfi1T0iTiLTNUCzjoM4XST4/edit?usp=sharing)
-- [Team's Final presentation](https://docs.google.com/presentation/d/1aTTiavM4PPCvvYFYtTr3CMvwH54stu024LGKCdFK1oI/edit?usp=sharing)
+- [Team's Final presentation](https://drive.google.com/file/d/1YsRtPYx6YtOENun6oPOglku5hEVYFYLY/view?usp=sharing)
 
 ## Movie Analyzation
 - [Movie Timeline](https://docs.google.com/document/d/1Ri1rN9Y7qp7L99oVy59iAa0EpRTXeu1v1d9ERlakvfM/edit?usp=sharing)
